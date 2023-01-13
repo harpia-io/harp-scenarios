@@ -1,0 +1,4 @@
+microservice-template-core==2.0.6
+pymysql==1.0.2
+flask_marshmallow==0.14.0
+marshmallow==3.10.0
